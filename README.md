@@ -1,6 +1,6 @@
 # Snakes and Ladders with SwiftBot
 
-A Java-based Snakes and Ladders game developed as part of a software implementation project.
+A Java-based Snakes and Ladders game developed as part of a university software implementation project.
 
 ## Features
 - 5x5 board with randomly generated snakes and ladders
@@ -16,5 +16,19 @@ A Java-based Snakes and Ladders game developed as part of a software implementat
 - Maven
 - SwiftBot API
 
+## Skills Demonstrated
+- Object-oriented programming
+- Game logic implementation
+- Input validation and error handling
+- Debugging and testing
+
 ## Overview
 This project focuses on applying object-oriented programming principles, implementing game logic based on requirements, and testing functionality through debugging and validation.
+
+## How to Run
+1. Clone the repository:
+   `git clone https://github.com/foysalbinislam/snakes-and-ladders-java`
+
+2. Open the project in Eclipse or another Java IDE
+
+3. Run `Main.java` to start the game
